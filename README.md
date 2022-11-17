@@ -5,6 +5,10 @@
 
 ### Dataset
 
+Notebook generation script is located at [notebooks/generate.ipynb](notebooks/generate.ipynb).
+
+#### Usage
+
 ```python
 from datasets import load_dataset
 
